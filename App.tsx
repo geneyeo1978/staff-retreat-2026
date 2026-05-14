@@ -68,6 +68,7 @@ const CONFIG = {
     wifiPassword: "THRIVE_TOGETHER_2026",
     mapImageUrl: "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=2626&auto=format&fit=crop", // Placeholder image
     emergencyInstructions: [
+      "Event ICs: Melissa, Caleb, Priscilla, Gene",
       "Contact Event Coordinator: +65 1234 5678",
       "First Aid Station: Located at the Main Lobby",
       "Emergency Assembly Point: West Lawn",
